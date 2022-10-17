@@ -12,7 +12,7 @@ Coding:
 
 For SA
   Initial T = 100
-  Cooling function: T  T * 0.999
+  Cooling function: T <- T * 0.999
   Stopping criteria: T = 0.001
 
 For TS
